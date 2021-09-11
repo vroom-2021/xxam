@@ -1,0 +1,24 @@
+<?php
+$reset = "\033[0m";
+$red = "\033[31m";
+$green = "\033[32m";
+$yellow = "\033[33m";
+$magenta = "\033[35m";
+$blue = "\033[34m";
+$white = "\033[37m";
+
+
+
+echo $yellow."\t\t██".$blue."╗░░██╗░█████╗░███╗░░░███╗███╗░░░███╗\n".$reset;
+echo $white."\t\t╚█".$white."█╗".$blue."██╔╝██╔══██╗████╗░████║████╗░████║\n";
+echo $white."\t\t░╚█".$yellow."██".$white."╔╝░".$blue."███████║██╔████╔██║██╔████╔██║\n";
+echo $white."\t\t░██╔█".$red."█╗░██╔══██║██║╚██╔╝██║██║╚██╔╝██║\n";
+echo $yellow."\t\t██".$white."╔╝".$red."╚██╗██║░░██║██║░╚═╝░██║██║░╚═╝░██║\n";
+echo $white."\t\t╚═".$red."╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝\n";
+echo $reset;
+echo $magenta;
+echo "\t\t   >>>AUTHOR:".$yellow." Xamm Smeagol Lodi<<\n\n".$reset;
+echo "Available tools para sayo lods\n\n";
+echo $red."[".$green."1".$red."]".$reset."PISO WIFI tutorial hacking\n";
+echo $red."[".$green."2".$red."]".$reset."Gumawa ng Sariling \n";
+
